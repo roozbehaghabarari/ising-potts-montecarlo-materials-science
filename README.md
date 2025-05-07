@@ -24,7 +24,7 @@ This repository includes the following files:
 
     MCPotts.m – MATLAB code for the Potts model
 
-    Document.pdf – A comprehensive report that includes:
+    DOCUMENT.pdf – A comprehensive report that includes:
 
         Explanation of the models and simulation approach
 
@@ -36,7 +36,7 @@ This repository includes the following files:
 
 ## Documentation
 
-The accompanying report (document.pdf) provides a detailed summary of the implementation and findings. It is intended to guide readers through the theoretical background, code structure, and interpretation of results.
+The accompanying report (DOCUMENT.pdf) provides a detailed summary of the implementation and findings. It is intended to guide readers through the theoretical background, code structure, and interpretation of results.
 
 ## Author
 
