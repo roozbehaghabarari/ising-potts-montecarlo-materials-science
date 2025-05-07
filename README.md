@@ -20,11 +20,11 @@ In addition to the exercises, some guide codes provided in the book were referen
 
 This repository includes the following files:
 
-    ising_model.m – MATLAB code for the 2D Ising model
+    MCIsing.m – MATLAB code for the Ising model
 
-    potts_model.m – MATLAB code for the 2D Potts model
+    MCPotts.m – MATLAB code for the Potts model
 
-    document.pdf – A comprehensive report that includes:
+    Document.pdf – A comprehensive report that includes:
 
         Explanation of the models and simulation approach
 
